@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {background-color: skyblue;}
+h1   {color: coral; text-align:center; font-size: 300%}
+p    {text-align:center; color: black}
+h2 {text-align:center; color: black}
+ th, td {
+  border: 1px solid black; 
+  border-radius: 10px;
+  border-style: solid;
+}
+th, td {
+  background-color: white;
+}
+</style>
+<title>Page Title</title>
+</head>
+<h1>Welcome</h1>
+<p>Page created by the founder; Micah Fittz.</p>
+<title>Antigua Board Game Club</title>
+<body>
+
+<img src="images/1.jpg" alt="Background" style="width:400px;height:300px;">
+<img src="images/2.jpeg" alt="Background" style="width:400px;height:300px;">
+<img src="images/3.jpg" alt="Background" style="width:400px;height:300px;">
+<img src="images/4.jpeg" alt="Background" style="width:400px;height:300px;">
+
+<div style="text-align: center;">
+<img src="https://media-cdn.tripadvisor.com/media/photo-s/21/88/c5/50/staff-image.jpg" alt="Location"
+<h2>Who We Are / Quienes Somos</h2>
+<p>We are a group of dedicated gamers that enjoy spending time learning and playing modern board games. We pride ourselves on our skills and strategic discussions that everyone learns from. We invite all board gamers in Antigua to come and join us as we develop our skills and have fun! </p>
+<iframe width="800" height="600"
+src="https://www.youtube.com/embed/tHGuMcqxAU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://boardgamegeek.com"> SOURCE FOR ALL THINGS BOARDGAMES</a>
+<table style="width:100%">
+  <tr>
+    <th>Light games</th>
+    <th> Medium games</th> 
+    <th> Hardcore games</th>
+  </tr>
+   <tr>
+    <td>Sushi Go</td>
+    <td>7 Wonders</td> 
+    <td>Civilization</td>
+  </tr>
+  <tr>
+    <td>Unstable Unicorns</td>
+    <td>Catan</td> 
+    <td>Star Wars Rebellion</td>
+  </tr>
+    <tr>
+    <td>Avalon</td>
+    <td>San Juan</td> 
+    <td>Dune</td>
+  </tr>
+  </table>
+<a href="msj.txt"> Download </a
+</body>
+</html>
